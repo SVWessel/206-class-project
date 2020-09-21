@@ -131,6 +131,15 @@ main {
   align-items: center;
 }
 
+header ul{
+  display:inline;
+}
+
+main{
+  background-image: url("../img/chain");
+  background-repeat: no-repeat;
+}
+
 .flex-container {
   display: flex;
   justify-content: center;
